@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Personal AI Assistant",
+    "slug": "personal-ai-assistant",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.personalassistant.privateapp",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
